@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-08T13:31:47.684751Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-08T11:30:22.931235Z",
+      "mimetype": "text/x-python",
+      "name": "utils_linclass_07.py",
+      "path": "utils/utils_linclass_07.py",
+      "size": 3040,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-08T13:31:47.683751Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-08T11:30:22.931235Z",
+      "mimetype": "text/x-python",
+      "name": "utils.py",
+      "path": "utils/utils.py",
+      "size": 4698,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-08T13:31:47.684751Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-08T11:30:22.932235Z",
+      "mimetype": "text/x-python",
+      "name": "utils_linclass_08.py",
+      "path": "utils/utils_linclass_08.py",
+      "size": 1146,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-08T13:31:47.684751Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-08T13:31:47.684751Z",
+  "mimetype": null,
+  "name": "utils",
+  "path": "utils",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
